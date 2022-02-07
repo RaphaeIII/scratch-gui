@@ -46,7 +46,32 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
+import smartgridIconURL from './smartgrid/iqtools.jpg';
+import smartgridInsetIconURL from './smartgrid/iqtools.jpg';
+
+
+
 export default [
+    {
+        name: 'SmartGrid',
+        extensionId: 'smartgrid',
+        collaborator: 'PI',
+        iconURL: smartgridIconURL,
+        insetIconURL: smartgridInsetIconURL,
+        description: (
+            <FormattedMessage
+                defaultMessage="New blocks."
+                description="my block"
+                id="gui.extension.newblocks.description"
+            />
+        ),
+        featured: true,
+        disabled: false,
+        internetConnectionRequired: true,
+        bluetoothRequired: false,
+        helpLink: 'https://scratch.mit.edu/wedo'
+
+    },
     {
         name: (
             <FormattedMessage

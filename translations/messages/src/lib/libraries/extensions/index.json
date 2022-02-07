@@ -1,5 +1,10 @@
 [
   {
+    "id": "gui.extension.newblocks.description",
+    "description": "my block",
+    "defaultMessage": "New blocks."
+  },
+  {
     "id": "gui.extension.music.name",
     "description": "Name for the 'Music' extension",
     "defaultMessage": "Music"
