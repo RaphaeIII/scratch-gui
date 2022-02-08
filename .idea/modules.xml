@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../scratch-blocks/.idea/scratch-blocks.iml" filepath="$PROJECT_DIR$/../scratch-blocks/.idea/scratch-blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scratch-gui.iml" filepath="$PROJECT_DIR$/.idea/scratch-gui.iml" />
       <module fileurl="file://$PROJECT_DIR$/../scratch-vm/.idea/scratch-vm.iml" filepath="$PROJECT_DIR$/../scratch-vm/.idea/scratch-vm.iml" />
     </modules>

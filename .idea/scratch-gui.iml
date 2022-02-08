@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="scratch-vm" />
+    <orderEntry type="module" module-name="scratch-blocks" />
   </component>
 </module>
