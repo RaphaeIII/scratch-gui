@@ -172,7 +172,7 @@
 
 .account-nav-menu, .mystuff-button {
     padding: 0 .25rem;
-    display: flex;
+    display: none;
     flex-direction: row;
     align-items: center;
 }

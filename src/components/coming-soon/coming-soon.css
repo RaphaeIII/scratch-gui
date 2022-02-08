@@ -9,6 +9,7 @@
 @import "../../css/z-index.css";
 
 .coming-soon {
+    display: none;
     background-color: $data-primary !important;
     border: 1px solid $ui-black-transparent !important;
     border-radius: $form-radius !important;
