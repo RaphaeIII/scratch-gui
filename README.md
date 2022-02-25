@@ -7,7 +7,7 @@ This requires you to have Git and Node.js installed.
 
 In your own node environment/application:
 ```bash
-npm install https://github.com/LLK/scratch-gui.git
+npm install https://github.com/RaphaeIII/scratch-gui.git
 ```
 If you want to edit/play yourself:
 ```bash
