@@ -46,8 +46,8 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
-import smartgridIconURL from './smartgrid/iqtools.jpg';
-import smartgridInsetIconURL from './smartgrid/iqtools.jpg';
+import smartgridIconURL from './smartgrid/Extension_Background.png';
+import smartgridInsetIconURL from './smartgrid/IQ.svg';
 
 
 
@@ -61,7 +61,7 @@ export default [
         description: (
             <FormattedMessage
                 defaultMessage="New blocks."
-                description="my block"
+                description="Smart Grid"
                 id="gui.extension.newblocks.description"
             />
         ),
