@@ -60,7 +60,7 @@ export default [
         insetIconURL: smartgridInsetIconURL,
         description: (
             <FormattedMessage
-                defaultMessage="Build Intelligent Electricity Network"
+                defaultMessage="New blocksssss."
                 description="Smart Grid"
                 id="gui.extension.newblocks.description"
             />
